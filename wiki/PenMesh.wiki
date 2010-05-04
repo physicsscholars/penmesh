@@ -1,4 +1,4 @@
-#summary Main reference of penMesh in IEEE Trans Med Imaging.
+#summary Main reference of penMesh in IEEE Transactions on Medical Imaging.
 #labels Phase-Implementation,Featured
 
 The penMesh code has been described in the scientific paper referenced below:
