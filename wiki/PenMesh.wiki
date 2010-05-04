@@ -1,3 +1,6 @@
+#labels Phase-Implementation,Featured
+# Reference to the penMesh manuscript in IEEE Trans Med Imaging.
+
 = penMesh documentation =
 
 The penMesh code has been described in the following scientific paper:
