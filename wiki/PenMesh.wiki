@@ -1,8 +1,6 @@
 #summary Main reference of penMesh in IEEE Trans Med Imaging.
 #labels Phase-Implementation,Featured
 
-= penMesh documentation =
-
 The penMesh code has been described in the scientific paper referenced below. Users of penMesh should reference to this manuscript in their published works:
 
   * [http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4912407 Badal A, Kyprianou I, Banh DP, Badano A, and Sempau J., "penMesh--Monte Carlo radiation transport simulation in a triangle mesh geometry", IEEE Trans Med Imaging 28(12), pp. 1894-901 (2009)]
