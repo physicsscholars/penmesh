@@ -1,0 +1,9 @@
+The penMesh code has been described in the scientific paper referenced below:
+
+  * [Badal A, Kyprianou I, Banh DP, Badano A, and Sempau J., "penMesh--Monte Carlo radiation transport simulation in a triangle mesh geometry", IEEE Trans Med Imaging 28(12), pp. 1894-901 (2009)](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4912407)
+
+The users of the penMesh code should reference to this manuscript in their published works.
+
+### ABSTRACT ###
+
+We have developed a general-purpose Monte Carlo simulation code, called penMesh, that combines the accuracy of the radiation transport physics subroutines from PENELOPE and the flexibility of a geometry based on triangle meshes. While the geometric models implemented in most general-purpose codes--such as PENELOPE's quadric geometry--impose some limitations in the shape of the objects that can be simulated, triangle meshes can be used to describe any free-form (arbitrary) object. Triangle meshes are extensively used in computer-aided design and computer graphics. We took advantage of the sophisticated tools already developed in these fields, such as an octree structure and an efficient ray-triangle intersection algorithm, to significantly accelerate the triangle mesh ray-tracing. A detailed description of the new simulation code and its ray-tracing algorithm is provided in this paper. Furthermore, we show how it can be readily used in medical imaging applications thanks to the detailed anatomical phantoms already available. In particular, we present a whole body radiography simulation using a triangulated version of the anthropomorphic NCAT phantom. An example simulation of scatter fraction measurements using a standardized abdomen and lumbar spine phantom, and a benchmark of the triangle mesh and quadric geometries in the ray-tracing of a mathematical breast model, are also presented to show some of the capabilities of penMesh.
